@@ -1,9 +1,9 @@
-<h1> Hi there, I'm Kelvin 👋 </h1>
+<h1> Hi there, I'm Kelvin 👋🏼 </h1>
 
 
-- 🙋🏽‍♂️ I'm a Backend (Django) Developer.
-- 🔭 I’m currently working on random Django projects ...
-- 🌱 I’m currently learning <a href="https://django-rest-framework.org"> DRF </a> and <a href="expressjs.com"> ExpressJS </a> with <a href="nodejs.org"> Node.js </a>.
+- 🙋🏽‍♂️ I'm a Backend (Django) Developer and currently looking for internship or entry level positions in any company. 
+- 🔭 I’m currently working on random Django projects  ...
+- 🌱 I’m currently learning to build RESTful API using <a href="https://django-rest-framework.org"> DRF </a> and <a href="expressjs.com"> ExpressJS </a> with <a href="nodejs.org"> Node.js </a>.
 - 👬 I’m looking to collaborate on any Django project ...
 
 - 💬 Ask me about anything Django related...
