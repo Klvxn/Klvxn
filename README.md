@@ -2,7 +2,7 @@
 
 
 - 🙋🏽‍♂️ I'm a Backend (Django) Developer and currently looking for internship or entry level positions in any company. 
-- 🔭 I’m currently working on random Django projects  ...
+- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> learning frontend and backend engineering with Python/Django.
 - 🌱 I’m currently learning to build RESTful API using <a href="https://django-rest-framework.org"> DRF </a> and <a href="expressjs.com"> ExpressJS </a> with <a href="nodejs.org"> Node.js </a>.
 - 👬 I’m looking to collaborate on any Django project ...
 
