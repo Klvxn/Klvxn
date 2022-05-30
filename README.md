@@ -9,7 +9,7 @@
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
 
-<h1> :hammer_and_wrench: Languages and Tools</h1>
+<h2> :hammer_and_wrench: Languages and Tools</h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50" height="50"/>
