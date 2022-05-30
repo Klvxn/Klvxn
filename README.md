@@ -8,3 +8,9 @@
 - 💬 Ask me about anything Django related.
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
+
+<h1> ### :hammer_and_wrench: Languages and Tools :</h1>
+<hr> 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
