@@ -9,7 +9,7 @@
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
 
-<h2> :hammer_and_wrench: Languages and Tools</h2>
+<h2> :hammer_and_wrench: Languages and Tools </h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50" height="50"/>
@@ -17,7 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50"/>
   
 </div>
 
