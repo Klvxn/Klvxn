@@ -9,7 +9,7 @@
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
 
-<h2> :hammer_and_wrench: Languages and Tools </h2>
+## :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50" height="50"/>
@@ -20,6 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50"/>
 </div>
 
-<h2> :stars: GitHub Stats </h2>
+## :stars: GitHub Stats </h2>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvxn&langs_count=5&theme=tokyonight)]()
+
+<br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kelvxn&count_private=true&theme=tokyonight&showicons=true)]()
