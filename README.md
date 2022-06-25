@@ -2,7 +2,7 @@
 
 
 - 🙋🏽‍♂️ I'm a Backend (Django) Developer and currently looking for internship or entry level positions. 
-- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> learning and backend engineering with Python/Django and a beneficiary of ALX-T Udacity scholarship making head towards becoming a Cloud Developer with AWS.
+- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> learning backend engineering with Python/Django and a beneficiary of <a href="alx-t.com"> ALX-T </a> Udacity scholarship making headway towards becoming a Cloud Developer with AWS.
 - 🌱 ...while also learning to build RESTful API using <a href="https://django-rest-framework.org"> DRF </a> and <a href="nodejs.org"> Node.js </a>.
 - 👬 I’m looking to collaborate on any Django/DRF related project.
 - 💬 Ask me about anything Django related.
