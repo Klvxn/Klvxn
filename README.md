@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Kelvin 👋🏼 </h1>
+<h1> Hi there, call me Kelvin 👋🏼 </h1>
 
 
 - 🙋🏽‍♂️ I'm a Backend (Django) Developer and currently looking for internship or entry level positions. 
