@@ -1,7 +1,7 @@
 <h1> Hi there, call me Kelvin 👋🏼 </h1>
 
 
-- 🙋🏽‍♂️ I'm a Backend (Django) Developer and currently looking for internship or entry level positions. 
+- 🙋🏽‍♂️ I'm a Backend and Cloud Developer and currently looking for internship or entry level positions. 
 - 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> and <a href="alx-t.com"> ALX-T </a> Udacity studying backend and cloud engineering.
 - 🌱 and learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a>.
 - 👬 I’m looking to collaborate on any Django/DRF related project.
@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="50" height="50"/>
 </div>
 
 ## :stars: GitHub Stats </h2>
