@@ -2,8 +2,7 @@
 
 
 - 🙋🏽‍♂️ I'm a Backend Developer with basic knowledge of AWS cloud services and currently looking for internship or entry level positions. 
-- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> 
-- 🌱 and learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a> and <a href="https://fastapi.tiangolo.com"> FastAPI </a>
+- 🌱 I'm learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a> and <a href="https://fastapi.tiangolo.com"> FastAPI </a>
 - 👬 I’m looking to collaborate on any Django/DRF related projects.
 - 💬 Ask me about anything Django related.
 - 📫 How to reach me: akpulukelvin@gmail.com
