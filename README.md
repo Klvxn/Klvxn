@@ -1,10 +1,10 @@
 <h1> Hi there, call me Kelvin 👋🏼 </h1>
 
 
-- 🙋🏽‍♂️ I'm a Backend and Cloud Developer and currently looking for internship or entry level positions. 
-- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> and <a href="alx-t.com"> ALX-T </a> Udacity studying backend and cloud engineering.
-- 🌱 and learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a>.
-- 👬 I’m looking to collaborate on any Django/DRF related project.
+- 🙋🏽‍♂️ I'm a Backend Developer with basic knowledge of AWS cloud services and currently looking for internship or entry level positions. 
+- 🔭 I’m a currently a student at <a href="altschoolafrica.com"> AltSchool Africa </a> 
+- 🌱 and learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a> and <a href="https://fastapi.tiangolo.com"> FastAPI </a>
+- 👬 I’m looking to collaborate on any Django/DRF related projects.
 - 💬 Ask me about anything Django related.
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
