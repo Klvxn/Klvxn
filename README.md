@@ -22,6 +22,6 @@
 
 ## :stars: GitHub Stats </h2>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvxn&langs_count=5&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Klvxn&langs_count=5&theme=tokyonight&layout=compact)]()
 
 <br>
