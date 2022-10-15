@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
 </div>
 
-## :stars: GitHub Stats </h2>
+## :stars: Language Stats </h2>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Klvxn&theme=tokyonight&layout=compact)]()
 
