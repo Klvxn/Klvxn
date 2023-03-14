@@ -1,7 +1,7 @@
 <h1> Hi there, call me Kelvin 👋🏼 </h1>
 
 
-- 🙋🏽‍♂️ I'm a Backend Developer with basic knowledge of AWS cloud services and currently looking for internship or entry level positions. 
+- 🙋🏽‍♂️ I'm a Backend Developer currently with Django, Flask and basic knowledge of AWS.
 - 🌱 I'm learning to build RESTful APIs using <a href="https://django-rest-framework.org"> DRF </a> and <a href="https://fastapi.tiangolo.com"> FastAPI </a>
 - 👬 I’m looking to collaborate on any Django/DRF related projects.
 - 💬 Ask me about anything Django related.
@@ -22,6 +22,6 @@
 
 ## :stars: Language Stats </h2>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Klvxn&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klvxn&theme=tokyonight&layout=compact)]()
 
 <br>
