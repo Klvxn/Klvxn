@@ -1,4 +1,4 @@
-<h1> Hi there, call me Kelvin 👋🏼 </h1>
+<h2> Hi there, call me Kelvin 👋🏼 </h3>
 
 
 - 🙋🏽‍♂️ I'm a Backend Developer currently with Django, Flask, FastAPI and basic knowledge of AWS.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: akpulukelvin@gmail.com
 - 😄 Pronouns: He/Him
 
-## :hammer_and_wrench: Languages and Tools 
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50" height="50"/>
@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
 </div>
 
-## :stars: Language Stats </h2>
+### :stars: Language Stats </h2>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Klvxn&theme=tokyonight&layout=compact)]()
 
