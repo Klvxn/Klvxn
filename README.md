@@ -2,7 +2,7 @@
 
 
 - 🙋🏽‍♂️ I'm a Backend Developer currently with Django, Flask, FastAPI and basic knowledge of AWS.
-- 🌱 I'm learning to build robust RESTful APIs using <a href="https://fastapi.tiangolo.com"> FastAPI ⚡</a>
+- 🌱 I'm learning to build robust RESTful APIs using <a href="https://fastapi.tiangolo.com"> FastAPI ⚡</a> and also Ruby 
 - 👬 I’m looking to collaborate on any Django/FastAPI related projects.
 - 💬 Ask me about anything Django related.
 - 📫 How to reach me: akpulukelvin@gmail.com
@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby"
-width="50" height="60" />
+width="50" height="50" />
 </div>
 
 ### :stars: Language Stats </h2>
